@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse
+    border;
+    background-color: blueviolet;
+    color: white;
+}
+
+table td, table th{
+    border: none;
+    padding: 10px;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+    background-color: magenta;
+}
