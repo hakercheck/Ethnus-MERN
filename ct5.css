@@ -1,0 +1,49 @@
+ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 9em }
+h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+ul.navbar a {
+    text-decoration: none }
+a:link {
+    color: blue }
+a:visited {
+    color: purple }
+address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+
+    .container {
+        width: 40%; /* Set the width of the container */
+        margin: 20px auto 0; /* Center the container horizontally and add 20px margin from the top */
+        border: 2px solid black; /* Add a border around the container */
+        padding: 20px; /* Add padding to create space inside the container */
+        text-align: center; /* Center the text/content inside the container */
+        box-sizing: border-box; /* Include padding and border in the container's total width */
+        display: flex;
+        flex-direction: row;
+        background-color: #d8da3d;
+        color: maroon;
+        text-align: left;
+      }
+
+.right-container{
+    width: 70%;
+    height: 100%;
+    margin-left: 20px;
+}
+
+.left-container{
+    width: 30%;
+    height: 100%;
+}

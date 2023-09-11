@@ -1,0 +1,25 @@
+table th{
+    background-color: rgb(17, 214, 149);
+    text-align: left;
+    color: white;
+    padding: 10px;
+}
+
+table td{
+    background-color: white;
+    text-align: left;
+    color: black;
+    padding: 10px;
+}
+
+tr#g td{
+    background-color: rgb(207, 207, 207);
+}
+
+table{
+    width: 70%;
+    align-self: center;
+    border: 1px solid rgb(207, 207, 207);
+    border-collapse: collapse;
+    border-spacing: 0;
+}

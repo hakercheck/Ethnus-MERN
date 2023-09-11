@@ -1,0 +1,26 @@
+table td{
+    background-color: cadetblue;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+    border-radius: 50px;
+}
+table th{
+    background-color: cadetblue;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+table{
+    width: auto;
+    margin: 0 auto;
+    background-color: cadetblue;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
